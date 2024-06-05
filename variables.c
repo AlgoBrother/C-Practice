@@ -5,7 +5,7 @@ int main(){
 
   float out;
   out = 2.3;
-  const float constant = 9.8;
+  const float constant = 9.8; // constant value which cant be changed later
   printf("%f and %f\n", constant, out);
   printf("The \"value\" of pi is %f\n", PI);
 
